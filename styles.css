@@ -195,6 +195,8 @@ h3{
 }
 /*プロフィール*/
 #profile_page{
+	border-radius: 20px ;
+	box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.2);
 	width: 80%;
 	height: 100%;
 	margin:auto;
