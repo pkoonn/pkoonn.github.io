@@ -144,7 +144,7 @@ h3{
 }
 .genre{
 	color: #fff;
-    background-color: #337ab7;
+    background-color: #844f30;
     border-color: #2e6da4;
     display: inline-block;
     width:auto;
@@ -162,17 +162,59 @@ h3{
     border-radius: 4px;
 }
 
+.tag{
+	padding: 6px 12px;
+	margin-left:10px;
+	font-size: 36px;
+	color: #844f30;
+	border-bottom: 1px solid #844f30;
+}
+.genre-tag{
+	margin-bottom: 10px;
+}
+.genre-tag img{
+	width:150px;
+	height:50px;
+}
 
+.genre-tag div{
+	font-size:33px;
+	position: relative;
+	top:-45px;
+	left:0px;
+	font-family: MyFont1;
+	color: #844f30;
+	height:0px;
+}
+.genre-line{
 
+	margin:auto;
+	width:80%;
+	border : 1px solid #844f30; 
+	margin-bottom:30px;
+}
 /*プロフィール*/
 #profile_page{
 	width: 80%;
 	height: 100%;
 	margin:auto;
 }
+#name-area{
+	text-align: center;
+	margin:auto;
+}
+
+#name-area img{
+	width:200px;
+	border-radius: 100%;
+	margin-bottom:10px;
+}
+
+
 .profiles{
 	width:80%;
 	margin:auto;
+	text-align: center;
 }
 .profiles p {
 	padding-left:20px;
