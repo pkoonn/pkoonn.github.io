@@ -337,7 +337,12 @@ h3{
 	margin: auto;
 	width:100%;
 }
-
+#motyaBall{
+	margin-top: 10%;
+	width:200px;
+	border-radius: 100%;
+	margin-bottom:10px;
+}
 
   @media screen and (max-width: 736px) { 
 	#header{
