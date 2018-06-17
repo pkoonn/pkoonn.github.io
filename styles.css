@@ -37,7 +37,7 @@ h3{
 	height: 100%;
 	background-image: url("./motya_background_2.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 120%;
 	z-index: -1;
 }
 
@@ -200,6 +200,7 @@ h3{
 	width: 80%;
 	height: 100%;
 	margin:auto;
+	margin-bottom:30px;
 }
 #name-area{
 	text-align: center;
@@ -217,9 +218,11 @@ h3{
 	width:80%;
 	margin:auto;
 	text-align: center;
+	
 }
 .profiles p {
 	padding-left:20px;
+	color: #844f30;
 }
 /* #profile_background{
 	position: absolute;
